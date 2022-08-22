@@ -13,7 +13,7 @@ IDE Used : Visual Studio Code
 
 Languages Used : Html, Css,  JavaScript
 
-##Task 2 -
+## Task 2-
 
 Create a web application using create-react-app
 
