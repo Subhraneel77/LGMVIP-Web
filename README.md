@@ -91,3 +91,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Task 3- 
+
+CREATE A REGISTRATION FORM WHOSE DATA DISPLAY IN SAME PAGE  USING HTML, CSS & JS OR REACT JS
+
+IDE Used : Visual Studio Code
+
+Languages Used : Html, Css,  JavaScript.
+
+## Task 4-
+
+CREATE A CALCULATOR USING HTML, CSS & JS OR REACT JS
+
+IDE Used : Visual Studio Code
+
+Languages Used : Html, Css,  JavaScript.
+
+
+
