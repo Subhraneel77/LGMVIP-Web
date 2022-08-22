@@ -11,4 +11,4 @@ Create a To Do List using HTML, CSS, Javascript
 
 IDE Used: Visual Studio Code
 
-Languages Used: HTML, CSS, JavaScript
+Languages Used: Html, Css,  JavaScript
